@@ -36,6 +36,7 @@
     "pusher-js": "^4.4.0",
     "vue-ads-pagination": "2.0.5",
     "vue-full-calendar": "^2.8.0",
+    "vue-google-charts": "^0.3.3",
     "vue-input-calculator": "^0.4.0",
     "vue-loading-overlay": "^2.2.2",
     "vue-mg-csv-importer": "^1.0.3",
